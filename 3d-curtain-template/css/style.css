@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -36,9 +36,9 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main Components 
+Main Components
 
 -------------------------------- */
 @media only screen and (min-width: 1170px) {
@@ -117,7 +117,7 @@ Main Components
 }
 .cd-half-block:nth-of-type(1) {
   height: 60vh;
-  background-color: #263b40;
+  background-color: #ffffff;
   background-position: center center;
   background-repeat: no-repeat;
 }
