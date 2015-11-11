@@ -48,7 +48,7 @@ main {
   -webkit-overflow-scrolling: touch;
   padding: 200px 5%;
   /*background-color: #9cb3a8;*/
-  background-image: url("../img/img-1.jpg");
+  background-image: url("../img/mic.jpg");
   background-size: cover;
   /* Force Hardware Acceleration in WebKit */
   -webkit-transform: translateZ(0);
